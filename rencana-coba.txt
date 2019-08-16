@@ -1,0 +1,6 @@
+Rencana - coba
+
+-JS
+*mulai belajar js
+-Laravel
+-Yii
